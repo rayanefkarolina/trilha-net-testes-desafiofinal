@@ -1,0 +1,6 @@
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Avanade Bootamp - 2024\trilha-net-testes-desafiofinal\CalculadoraTestes\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculadoraTestes
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Avanade Bootamp - 2024\trilha-net-testes-desafiofinal\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.csproj.AssemblyReference.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Avanade Bootamp - 2024\trilha-net-testes-desafiofinal\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Avanade Bootamp - 2024\trilha-net-testes-desafiofinal\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.AssemblyInfoInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Avanade Bootamp - 2024\trilha-net-testes-desafiofinal\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.AssemblyInfo.cs
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Avanade Bootamp - 2024\trilha-net-testes-desafiofinal\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.csproj.CoreCompileInputs.cache
